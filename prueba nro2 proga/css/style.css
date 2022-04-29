@@ -1,0 +1,92 @@
+body{
+   background-color: #434756;
+ /**/
+}
+#carouselExampleDark{
+    margin: 10px;
+    margin-bottom: 50px;
+    border: 5px solid black;
+}
+
+.carousel-inner,h1, h4{
+    color: antiquewhite;
+}
+
+.crd_general_l{
+    color: antiquewhite;
+    margin-left: 35px;
+    border-color: rgb(26, 23, 23);
+    border-width: 5px;
+    border-radius: 5px;
+}
+.crd_general_r{
+    color: antiquewhite;
+    margin-left: 35px;
+    border-color: rgb(26, 23, 23);
+    border-width: 5px;
+    border-radius: 5px;
+}
+
+.imggeneral{
+    border-radius: 5px;
+
+}
+
+#form-a{
+    justify-content: center;
+    margin: 120px;
+    border: 15px solid rgb(26, 23, 23);
+    background-color: rgb(26, 23, 23);
+    border-radius: 15px;
+
+}
+
+#form-a, label{
+    color: antiquewhite;
+    text-align: center;
+
+
+
+}
+
+#form-a{
+    text-align: left;
+    bottom: 30px;
+    border: 15px solid rgb(26, 23, 23);
+    background-color: rgb(26, 23, 23);
+    color: antiquewhite;
+    border-radius: 15px;
+
+}
+
+#h2_formulario{
+    text-align: center;
+    border: 15px solid rgb(26, 23, 23);
+    background-color: rgb(26, 23, 23);
+    border-radius: 15px;
+    color: antiquewhite;
+    margin: 50px;
+    bottom: 30px; 
+
+}
+
+.maps{
+    justify-content: center;
+    margin: 50px;
+    bottom: 30px;
+    border: 15px solid rgb(26, 23, 23);
+    background-color: rgb(26, 23, 23);
+}
+.maps, iframe{
+    justify-content: center;
+    margin: 50px;
+    color: antiquewhite;
+    border-radius: 15px;
+
+
+}
+
+
+.btn{
+    border-radius: 45px;
+}
